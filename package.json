@@ -1,0 +1,20 @@
+{
+  "name": "afj-z1",
+  "version": "1.0.0",
+  "description": "1. task for Automata and formal languages course",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michal-cesek/afj-z1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michal-cesek/afj-z1/issues"
+  },
+  "homepage": "https://github.com/michal-cesek/afj-z1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
